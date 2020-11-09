@@ -9,7 +9,8 @@
 My friend and I invented a format called **Mental**, where you can
 play whatever cards you want. See discussion about the full rule set [here](https://www.reddit.com/r/magicTCG/comments/j4su4a/guaranteed_turn_one_win_with_arbitrary_opening/).
 
-This is a discord bot that allows you to play the format.
+This is a discord bot that allows you to play the format. Note this is simple interface for displaying game states. 
+Most game mechanics isn't handled and need to be manually performed as if players were playing paper.
 
 # Developers
 
